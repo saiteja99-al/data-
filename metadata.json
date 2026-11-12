@@ -1,0 +1,6 @@
+{
+  "name": "CricInsight - Cricket Data Analysis & Visualization",
+  "description": "Comprehensive cricket data analysis and visualization web application featuring Cricsheet open data integration, automated data cleaning, multi-dimensional batting/bowling analytics, player radar comparisons, match winner prediction, and Python project files for college PBL submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
